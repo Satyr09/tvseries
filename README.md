@@ -20,7 +20,7 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "todo"> <br> </div>
 <h1> <u> To-do </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 - [x] Add UI Sample Templates
 - [x] Generate SITEMAP markup file automatically with ruby script
@@ -35,7 +35,7 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "supported"> <br> </div>
 <h1> <u> Supported TV Series' </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 
 - [ ] Arrow
@@ -63,7 +63,7 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "working"> <br> </div>
 <h1> <u> Working of the scripts </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial players here. This is the step-by-step working of this repository :
 <br> (1) `auto/ruby/index.rb` reads the `auto/data/index.json` file and knows which website(s) to look up for which series.  
@@ -75,65 +75,65 @@ The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial pl
 
 <div id = "resources"> <br> </div>
 <h1> <u> Resources </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 
  
-###The Flash 
+### The Flash 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/The_Flash_%282014_TV_series%29)
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt3107288/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_The_Flash_episodes)
 
  
-###Person of Interest 
+### Person of Interest 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series))
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt1839578/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_Person_of_Interest_episodes)
 
  
-###Gotham 
+### Gotham 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Gotham_(TV_series))
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt3749900/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_Gotham_episodes)
 
  
-###Game of Thrones 
+### Game of Thrones 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Game_of_Thrones)
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt0944947/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes)
 
  
-###White Collar 
+### White Collar 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/White_Collar_(TV_series))
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt1358522/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_White_Collar_episodes)
 
  
-###Breaking Bad 
+### Breaking Bad 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Breaking_Bad)
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt0903747/)
 - [ ] [Episode Synopsis Link] (http://breakingbad.wikia.com/wiki/Pilot)
 
  
-###DC's Legends of Tomorrow 
+### DC's Legends of Tomorrow 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Legends_of_Tomorrow)
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt4532368/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/Legends_of_Tomorrow)
 
  
-###Sherlock 
+### Sherlock 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Sherlock_(TV_series))
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt1475582/)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/List_of_Sherlock_episodes)
 
  
-###Firefly 
+### Firefly 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Firefly_(TV_series))
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt0303461/?ref_=nv_sr_1)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/Firefly_(TV_series))
 
  
-###Top of the Lake 
+### Top of the Lake 
 - [ ] [Wikipedia Link] (https://en.wikipedia.org/wiki/Top_of_the_Lake)
 - [ ] [IMDb Link] (http://www.imdb.com/title/tt2103085/?ref_=nv_sr_1)
 - [ ] [Episode Synopsis Link] (https://en.wikipedia.org/wiki/Top_of_the_Lake)
@@ -141,7 +141,7 @@ The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial pl
 
 <div id = "sitemap"> <br> </div>
 <h1> <u> Sitemap </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 <pre>
 
@@ -393,7 +393,7 @@ sample_series.html
     
 <div id = "contribute"> <br> </div>
 <h1> <u> How to contribute </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 The work flow is the same as that of any other repository. 
 <br> (1) Fork / clone the repository.
@@ -404,7 +404,7 @@ The work flow is the same as that of any other repository.
 
 <div id = "license"> <br> </div>
 <h1> <u> License </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+[(Back to contents)](#top)
 <br><br>
 The MIT License (MIT)
 
