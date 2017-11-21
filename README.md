@@ -5,16 +5,17 @@ TV Series is a tool that scrapes Episode Synopsis' of popular TV Series' from we
 Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "top"> <br>
-<h1> <u> LIST OF CONTENTS </u> </h1>
-<ul> 
-<li> <a href = "#todo"> To-do </a> </li>
-<li> <a href = "#supported"> Supported TV Series' </a> </li>
-<li> <a href = "#working"> Working of the scripts </a> </li>
-<li> <a href = "#resources"> Resources </a> </li>
-<li> <a href = "#sitemap"> Sitemap </a> </li>
-<li> <a href = "#contribute"> How to contribute </a> </li>
-<li> <a href = "#license"> License </a> </li>
-</ul>
+
+# List of contents
+
+- [To-do](#todo)
+- [Supported TV Series](#supported)
+- [Working of the scripts](#working)
+- [Resources](#resources)
+- [Sitemap](#sitemap)
+- [How to Contribute](#contribute)
+- [License](#license)
+
 </div>
 
 <div id = "todo"> <br> </div>
