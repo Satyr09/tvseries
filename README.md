@@ -20,6 +20,9 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "todo"> <br> </div>
 <h1> <u> To-do </u> </h1>
+
+
+
 [(Back to contents)](#top)
 <br><br>
 - [x] Add UI Sample Templates
@@ -35,6 +38,7 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "supported"> <br> </div>
 <h1> <u> Supported TV Series' </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 
@@ -63,6 +67,7 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 
 <div id = "working"> <br> </div>
 <h1> <u> Working of the scripts </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial players here. This is the step-by-step working of this repository :
@@ -75,6 +80,7 @@ The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial pl
 
 <div id = "resources"> <br> </div>
 <h1> <u> Resources </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 
@@ -141,6 +147,7 @@ The `auto/ruby/index.rb` and the `auto/data/index.json` files are the crucial pl
 
 <div id = "sitemap"> <br> </div>
 <h1> <u> Sitemap </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 <pre>
@@ -393,6 +400,7 @@ sample_series.html
     
 <div id = "contribute"> <br> </div>
 <h1> <u> How to contribute </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 The work flow is the same as that of any other repository. 
@@ -404,6 +412,7 @@ The work flow is the same as that of any other repository.
 
 <div id = "license"> <br> </div>
 <h1> <u> License </u> </h1>
+
 [(Back to contents)](#top)
 <br><br>
 The MIT License (MIT)
